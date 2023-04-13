@@ -1,2 +1,55 @@
-
-/* Your CSS Code here. */
+body{background-color:seagreen}
+nav{
+	width:100%;
+	background-color:lightcoral;
+	padding:2px;
+	display:flex;
+}
+p{
+	color: papayawhip;
+	font-weight:bolder;
+	font-family: cursive;
+	margin-left:50px;
+}
+.ml-90{
+	margin-left:90px;
+}
+a{
+	text-decoration:none;
+	color:blanchedalmond;
+	font-size:20px;
+	margin-left:40px;
+}
+.btn
+{
+	border:1px green solid;
+	border-radius:5px;
+	padding:5px;
+}
+.btn:hover{
+	cursor:pointer;
+	border:1px yellow solid;
+	background-color:pink;
+	color:black;
+}
+p:hover{
+	color:yellow;
+	cursor:pointer;
+}
+.plate{
+	background-color:white;
+	padding:50px;
+	width:80%;
+	margin:20px;
+}
+h2{
+	font-family:monospace;
+	font-weight:bolder;
+	background-color:yellow;
+	width:170px;
+	padding:10px;
+}
+video{
+	width:400px;
+	margin-left:20px;
+}
