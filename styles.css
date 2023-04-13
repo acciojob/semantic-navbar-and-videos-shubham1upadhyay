@@ -36,6 +36,10 @@ p:hover{
 	color:yellow;
 	cursor:pointer;
 }
+ul{
+	display:flex;
+	list-style:none;
+}
 .plate{
 	background-color:white;
 	padding:50px;
